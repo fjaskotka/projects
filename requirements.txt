@@ -1,6 +1,8 @@
 pandas
 numpy
 pyspark
+seaborn
+matplotlib.pyplot
 
 pytest
 pytest-cov
